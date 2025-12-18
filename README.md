@@ -1,3 +1,7 @@
+.<img width="748" height="439" alt="Screenshot 2025-12-17 231452" src="https://github.com/user-attachments/assets/e4d5a61b-7675-4b5a-be13-af492e454175" />
+
+
+
 Financial Transaction Dashboard (Excel)
 Overview
 
@@ -42,5 +46,4 @@ Future Improvements
 Integrate with live sales channels for real-time data updates.
 
 Add advanced Excel macros for more automation
-.<img width="748" height="439" alt="Screenshot 2025-12-17 231452" src="https://github.com/user-attachments/assets/e4d5a61b-7675-4b5a-be13-af492e454175" />
 
